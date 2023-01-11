@@ -6,4 +6,4 @@ All of these textbooks are originally from [the offical website](https://www.zxx
 
 Remember that you can only use it for **non-profit or educational purposes** for the textbooks are **copyrighted by the Chinese Ministry of Education and the National Textbook Committee**.
 
-If you know a bit about command line, you can also use my friend [MrWillCom's downloader](https://github.com/MrWillCom/textbooksDownloader) for quicker downloading. 
+If you know a bit about Node.js commands, you can also use my friend [MrWillCom's downloader](https://github.com/MrWillCom/textbooksDownloader) for quicker downloading. 
